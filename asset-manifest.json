@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/SAD_PROJECT_01/static/css/main.a88fbdf9.chunk.css",
-    "main.js": "/SAD_PROJECT_01/static/js/main.bb50a07b.chunk.js",
-    "main.js.map": "/SAD_PROJECT_01/static/js/main.bb50a07b.chunk.js.map",
-    "runtime-main.js": "/SAD_PROJECT_01/static/js/runtime-main.4f9b7996.js",
-    "runtime-main.js.map": "/SAD_PROJECT_01/static/js/runtime-main.4f9b7996.js.map",
+    "main.js": "/SAD_PROJECT_01/static/js/main.70ee554d.chunk.js",
+    "main.js.map": "/SAD_PROJECT_01/static/js/main.70ee554d.chunk.js.map",
+    "runtime-main.js": "/SAD_PROJECT_01/static/js/runtime-main.d3576011.js",
+    "runtime-main.js.map": "/SAD_PROJECT_01/static/js/runtime-main.d3576011.js.map",
     "static/css/2.558413a2.chunk.css": "/SAD_PROJECT_01/static/css/2.558413a2.chunk.css",
-    "static/js/2.7edfcffa.chunk.js": "/SAD_PROJECT_01/static/js/2.7edfcffa.chunk.js",
-    "static/js/2.7edfcffa.chunk.js.map": "/SAD_PROJECT_01/static/js/2.7edfcffa.chunk.js.map",
-    "static/js/3.fed41942.chunk.js": "/SAD_PROJECT_01/static/js/3.fed41942.chunk.js",
-    "static/js/3.fed41942.chunk.js.map": "/SAD_PROJECT_01/static/js/3.fed41942.chunk.js.map",
+    "static/js/2.5daa0a55.chunk.js": "/SAD_PROJECT_01/static/js/2.5daa0a55.chunk.js",
+    "static/js/2.5daa0a55.chunk.js.map": "/SAD_PROJECT_01/static/js/2.5daa0a55.chunk.js.map",
+    "static/js/3.7e972d99.chunk.js": "/SAD_PROJECT_01/static/js/3.7e972d99.chunk.js",
+    "static/js/3.7e972d99.chunk.js.map": "/SAD_PROJECT_01/static/js/3.7e972d99.chunk.js.map",
     "index.html": "/SAD_PROJECT_01/index.html",
     "static/css/2.558413a2.chunk.css.map": "/SAD_PROJECT_01/static/css/2.558413a2.chunk.css.map",
     "static/css/main.a88fbdf9.chunk.css.map": "/SAD_PROJECT_01/static/css/main.a88fbdf9.chunk.css.map",
-    "static/js/2.7edfcffa.chunk.js.LICENSE.txt": "/SAD_PROJECT_01/static/js/2.7edfcffa.chunk.js.LICENSE.txt",
+    "static/js/2.5daa0a55.chunk.js.LICENSE.txt": "/SAD_PROJECT_01/static/js/2.5daa0a55.chunk.js.LICENSE.txt",
     "static/media/App.css": "/SAD_PROJECT_01/static/media/ellieelien-04yMqTmUeHQ-unsplash.cec12c38.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4f9b7996.js",
+    "static/js/runtime-main.d3576011.js",
     "static/css/2.558413a2.chunk.css",
-    "static/js/2.7edfcffa.chunk.js",
+    "static/js/2.5daa0a55.chunk.js",
     "static/css/main.a88fbdf9.chunk.css",
-    "static/js/main.bb50a07b.chunk.js"
+    "static/js/main.70ee554d.chunk.js"
   ]
 }
